@@ -2,3 +2,5 @@
 2020-2021 учебный год
 
 https://uneex.org/LecturesCMC/PythonIntro2020
+
+А также [дополнительные задания](https://uneex.org/LecturesCMC/PythonIntro2020/AdditionalTask)
